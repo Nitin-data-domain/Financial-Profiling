@@ -320,7 +320,7 @@ This project showcases proficiency in the following data analytics and business 
 
 **Current Role:** Project Trainer at Aharada Education (IIMT University)
 
-**Technical Skills:** Python, Excel, Power BI
+**Technical Skills:** Excel, Power BI
 
 **Specialization:** Business Intelligence, Financial Analytics, Dashboard Development
 
