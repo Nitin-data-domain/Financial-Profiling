@@ -236,57 +236,6 @@ Allocate limited financial counseling resources to the 24 high-risk and 82 mediu
 
 Provide commanders with objective data for hardship discharge decisions or compassionate assignments. Support security clearance adjudication with comprehensive financial profiling information. Enable data-driven discussions about unit financial health in command briefings. Track year-over-year trends in financial wellness as a unit health metric.
 
-## Repository Structure and File Organization
-
-```
-Financial-Profiling/
-│
-├── Images/
-│   └── 19_Eng_Reg_Loan_Dashboard.png    # Dashboard screenshot
-│
-├── Power BI File/
-│   └── 19_ENGR_REGT_Financial.pbix      # Complete Power BI dashboard
-│
-├── Documentation/
-│   └── User_Guide.pdf                    # Dashboard user manual
-│
-└── README.md                             # Project documentation
-```
-
-## How to Use This Financial Profiling Dashboard
-
-**Step 1: Access Dashboard File**
-
-Download the 19_ENGR_REGT_Financial.pbix file from the Power BI File folder. Ensure you have appropriate authorization to access personnel financial data.
-
-**Step 2: Install Power BI Desktop**
-
-If not already installed, download the free Power BI Desktop application from Microsoft. Power BI Desktop is required to open and interact with .pbix dashboard files.
-
-**Step 3: Open Dashboard Securely**
-
-Launch Power BI Desktop and open the downloaded file. Ensure you are working on a secure, authorized computer with appropriate data handling protocols.
-
-**Step 4: Navigate Dashboard Pages**
-
-The dashboard may contain multiple pages for different analysis perspectives. Use page navigation tabs at the bottom of the Power BI window.
-
-**Step 5: Use Interactive Filters**
-
-Apply FD COY, Rank, or Name filters to focus on specific companies or individuals. Click on visual elements to cross-filter other dashboard components.
-
-**Step 6: Export Reports for Briefings**
-
-Use File > Export to PDF for command briefings. Use File > Export to PowerPoint for welfare officer presentations.
-
-**Step 7: Refresh Data Periodically**
-
-Click Refresh in the Home ribbon to update dashboard with latest financial data. Coordinate with regiment finance office for monthly data refreshes.
-
-**Step 8: Maintain Data Confidentiality**
-
-Follow all military data protection protocols. Do not share dashboard files via unsecured channels. Log all access for audit purposes.
-
 ## Data Privacy and Security Considerations
 
 **Confidentiality of Personnel Information**
@@ -371,15 +320,13 @@ This project showcases proficiency in the following data analytics and business 
 
 **Current Role:** Project Trainer at Aharada Education (IIMT University)
 
-**Career Goal:** Transitioning to Data Analyst role
-
-**Technical Skills:** Python, SQL, Excel, Power BI
+**Technical Skills:** Python, Excel, Power BI
 
 **Specialization:** Business Intelligence, Financial Analytics, Dashboard Development
 
-**Email:** [Your Email Address]
+**Email:** nitin219027@gmail.com
 
-**LinkedIn:** [Your LinkedIn Profile URL]
+**LinkedIn:** https://www.linkedin.com/in/nitingirdhar/
 
 **GitHub:** https://github.com/Nitin-data-domain
 
